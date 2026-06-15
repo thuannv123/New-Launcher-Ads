@@ -9,9 +9,9 @@ export const metadata = {
 export default function PrivacyPolicyPage() {
   const lastUpdated = "June 1, 2026"
   const appName    = "AdLauncher"
-  const company    = "PATI Group"
-  const contactEmail = "vanthuan@patigroup.com"
-  const websiteUrl   = "https://ads.patigroup.com"
+  const company    = "Alex"
+  const contactEmail = "thuannv06022001@gmail.com"
+  const websiteUrl   = "https://nguyenvanthuan.site"
 
   return (
     <div className="min-h-svh bg-background text-foreground">
